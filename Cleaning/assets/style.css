@@ -1,0 +1,138 @@
+a {
+  text-decoration: none;
+}
+body {
+  background-image: url(../assets/images/background.svg);
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.head {
+  display: inline-block;
+  text-align: left;
+  padding-top: 25px;
+  margin-bottom: 50px;
+}
+.up {
+  font-size: 50px;
+  font-weight: bolder;
+  color: #2e8cad;
+}
+.down {
+  display: inline-block;
+  font-size: 25px;
+  letter-spacing: 4px;
+  font-weight: bold;
+  margin-top: -10px;
+  color: #2e8cad;
+}
+.title {
+  display: inline-block;
+  text-align: center;
+}
+.lorem {
+  display: inline-block;
+  text-align: left;
+  background-color: white;
+  padding: 40px 50px;
+  border-radius: 30px;
+  margin-right: 50px;
+}
+h1 {
+  font-size: 50px;
+  color: #2e8cad;
+}
+.top {
+  padding-bottom: 280px;
+}
+.top p {
+  line-height: 25px;
+}
+.top span {
+  color: #2e8cad;
+}
+.ser {
+  margin-bottom: 15px;
+}
+.ser a {
+  color: #2e8cad;
+}
+.contact {
+  display: inline-block;
+  text-align: center;
+  padding: 20px 50px;
+  background-color: white;
+  border-radius: 30px;
+  margin-left: 50px;
+}
+.top h2 {
+  color: #2e8cad;
+  font-size: 35px;
+}
+input {
+  background-color: #94d3ea;
+  padding: 15px 70px;
+  border-radius: 40px;
+  border-color: #94d3ea;
+  margin-top: 20px;
+}
+.help {
+  color: white;
+  background-color: #2ebaeb;
+  padding: 14px 30px;
+  border-radius: 40px;
+}
+.help1 {
+  margin-top: 60px;
+}
+.aboutus {
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+.aboutus h2 {
+  color: #2e8cad;
+  font-size: 35px;
+}
+.number {
+  display: inline-block;
+  text-align: left;
+  margin: 30px;
+}
+.services {
+  background-color: #f2f2f2;
+  padding-top: 40px;
+  padding-bottom: 70px;
+}
+.services h2 {
+  color: #2e8cad;
+  font-size: 35px;
+}
+.cards {
+  display: inline-block;
+  text-align: left;
+  margin: 30px 20px;
+}
+.card a {
+  color: black;
+}
+.testymonials {
+  background-color: #95d4eb;
+  padding-top: 40px;
+  padding-bottom: 70px;
+}
+.testymonials h2 {
+  color: white;
+  font-size: 35px;
+}
+.comments {
+  display: inline-block;
+  text-align: left;
+  background-color: white;
+  padding: 20px 40px;
+  margin: 30px;
+  border-radius: 30px;
+}
+footer div {
+  padding: 40px;
+  background-color: #47626b;
+}
