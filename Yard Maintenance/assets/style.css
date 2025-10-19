@@ -1,162 +1,161 @@
 body {
-    background-image: url(../assets/images/turfbg.jpg);
-    background-repeat: no-repeat;
-    text-align: center;
+  background-image: url(../assets/images/turfbg.jpg);
+  background-repeat: no-repeat;
+  text-align: center;
 }
 .head {
-    margin-top: 60px;
+  margin-top: 60px;
 }
 .title {
-    display: inline-block;
-    text-align: center;
-    margin-left: 6px;
-
+  display: inline-block;
+  text-align: center;
+  margin-left: 6px;
 }
 .fline {
-    color: white;
-    display: block;
-    font-size: 50px;
-    font-weight: bolder;
+  color: white;
+  display: block;
+  font-size: 50px;
+  font-weight: bolder;
 }
 .sline {
-    font-size: 25px;
-    color: white;
-    letter-spacing: 4px;
-    font-weight: bolder;
+  font-size: 25px;
+  color: white;
+  letter-spacing: 4px;
+  font-weight: bolder;
 }
 .above {
-    margin-top: 160px;
+  margin-top: 160px;
 }
 h1 {
-    color: white;
-    font-size: 120px;
-    line-height: 110px;
+  color: white;
+  font-size: 120px;
+  line-height: 110px;
 }
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 .button {
-    margin-top: 130px;
+  margin-top: 130px;
 }
 .help {
-    font-weight: bolder;
-    color: #48924F;
-    background-color: white;
-    padding: 15px 35px;
-    border-radius: 40px;
-    box-shadow: 3px 5px 15px rgba(0, 0, 0, 0.3);
+  font-weight: bolder;
+  color: #48924f;
+  background-color: white;
+  padding: 15px 35px;
+  border-radius: 40px;
+  box-shadow: 3px 5px 15px rgba(0, 0, 0, 0.3);
 }
 .services {
-    margin-top: 230px;
+  margin-top: 230px;
 }
 .services h2 {
-    color: #828282;
-    font-size: 70px;
+  color: #828282;
+  font-size: 70px;
 }
 .cards {
-    display: inline-block;
-    text-align: left;
-    color: #0D4D14;
-    margin: 0px 15px;
-    border-radius: 30px;
-    box-shadow: 3px 5px 15px rgba(0, 0, 0, 0.3);
+  display: inline-block;
+  text-align: left;
+  color: #0d4d14;
+  margin: 0px 15px;
+  border-radius: 30px;
+  box-shadow: 3px 5px 15px rgba(0, 0, 0, 0.3);
 }
 .cards p {
-    margin-left: 10px;
+  margin-left: 10px;
 }
 .cards h5 {
-    margin-left: 10px;
+  margin-left: 10px;
 }
 .aboutus {
-    margin-top: 120px;
+  margin-top: 120px;
 }
 .about {
-    background-image: url(../assets/images/lawnbg.svg);
-    background-repeat: no-repeat;
-    padding-top: 120px;
-    padding-bottom: 120px;
+  background-image: url(../assets/images/lawnbg.svg);
+  background-repeat: no-repeat;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .text {
-    display: inline-block;
-    text-align: center;
-    color: white;
-    font-size: 18px;
-    margin: 0px 25px;
+  display: inline-block;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  margin: 0px 25px;
 }
 .aboutus h2 {
-    color: #828282;
-    font-size: 70px;
+  color: #828282;
+  font-size: 70px;
 }
 .button3 {
-    margin-top: 50px;
+  margin-top: 50px;
 }
 .testymonials {
-    margin-top: 100px;
+  margin-top: 100px;
 }
 .testymonials h2 {
-    color: #828282;
-    font-size: 70px;
+  color: #828282;
+  font-size: 70px;
 }
 .comment {
-    display: inline-block;
-    text-align: left;
-    border: 1px solid #6cb981;
-    border-radius: 40px;
-    padding: 20px;
-    margin: 20px;
+  display: inline-block;
+  text-align: left;
+  border: 1px solid #6cb981;
+  border-radius: 40px;
+  padding: 20px;
+  margin: 20px;
 }
 .comment h5 {
-    color: #6cb981;
+  color: #6cb981;
 }
 .comment p {
-    color: #0d4c14;
+  color: #0d4c14;
 }
 .contact {
-    margin-top: 100px;
-    margin-bottom: 50px;
+  margin-top: 100px;
+  margin-bottom: 50px;
 }
 .contact h2 {
-    color: #828282;
-    font-size: 70px;
+  color: #828282;
+  font-size: 70px;
 }
 .form {
-    display: inline-block;
-    text-align: left;
+  display: inline-block;
+  text-align: left;
 }
 input {
-    padding: 20px 40px;
-    border: none;
-    background-color: #9FDEA9;
-    margin: 12px 0px;
-    border-radius: 40px;
+  padding: 20px 40px;
+  border: none;
+  background-color: #9fdea9;
+  margin: 12px 0px;
+  border-radius: 40px;
 }
 #submit {
-    padding: 16px 40px;
-    border-radius: 40px;
-    margin-top: 5px;
-    border: 2px solid #4DB96B;
+  padding: 16px 40px;
+  border-radius: 40px;
+  margin-top: 5px;
+  border: 2px solid #4db96b;
 }
 .cmn {
-    display: inline-block;
-    text-align: left;
+  display: inline-block;
+  text-align: left;
 }
 .contact a {
-    color: black;
+  color: black;
 }
 .icon {
-    margin: 20px;
+  margin: 20px;
 }
 footer div {
-    padding: 50px;
-    background-color: #324b29;
+  padding: 50px;
+  background-color: #324b29;
 }
 .cards:hover {
-    border: 2px outset gray;
+  border: 2px outset gray;
 }
 .help:hover {
-    background-color: #a3a3a3;
+  background-color: #a3a3a3;
 }
 button:hover {
-    border: none;
-    background-color: #9FDEA9;
+  border: none;
+  background-color: #9fdea9;
 }
